@@ -1,0 +1,4 @@
+payment_mode_id,payment_mode
+1,Credit Card
+2,Cash on Delivery
+3,PayPal
