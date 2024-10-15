@@ -8,13 +8,13 @@ Data modeling in Power BI is a crucial step in building effective and insightful
 The purpose of data modeling in Power BI is to create a structured, optimized and meaningful representation of your data to support effective analysis, reporting and visualization. Data modeling is a critical step in the Power BI workflow that transform raw data into actionable insights for decision-making and business intelligence.
 
 
-orders =	Fact Table
-customers =	Dimension Table
-delivery_status =	Dimension Table
-payment_mode = Dimension Table
-products =	Dimension Table
-sellers =	Dimension Table
-reviews =	Dimension Table
+orders =	Fact Table <br>
+customers =	Dimension Table <br>
+delivery_status =	Dimension Table <br>
+payment_mode = Dimension Table <br>
+products =	Dimension Table <br>
+sellers =	Dimension Table <br>
+reviews =	Dimension Table <br>
 
 
 ## FACT & DIMENSION TABLE
